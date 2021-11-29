@@ -39,7 +39,7 @@ a {
 .block, .block2 {
     display: inline-block;
     position: relative;
-    position: fixed;
+    position: sticky;
     bottom: 150px;
     margin-left: 240px;
 }
