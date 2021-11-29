@@ -47,3 +47,7 @@ h3 {
     font-family: 'Helvetica Neue LT';
     font-size: 18px;
 }
+.margin {
+    margin-left: 900px;
+    margin-top: 600px;
+}
