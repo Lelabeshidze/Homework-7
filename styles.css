@@ -12,6 +12,7 @@ a {
 .block {
     display: inline-block;
     vertical-align: middle;
+    position: relative;
 }
 .box {
     background-color: #0A22F4;
@@ -26,7 +27,8 @@ a {
 .image {
     width: 300px;;
     height: 295px;
-    position: relative;
+    position: fixed;
+    bottom: 20px;
 }
 .title {
     color: #FFFFFF;
