@@ -9,13 +9,6 @@ ol, ul {
 a {
     text-decoration: none;
 }
-.block {
-    display: inline-block;
-    vertical-align: middle;
-    position: relative;
-    position: fixed;
-    bottom: 150px;
-}
 .box {
     background-color: #0A22F4;
     height: 308px;
@@ -41,4 +34,7 @@ a {
 }
 .block, .block2 {
     display: inline-block;
+    position: relative;
+    position: fixed;
+    bottom: 150px;
 }
