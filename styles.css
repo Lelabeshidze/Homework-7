@@ -39,7 +39,6 @@ a {
 .block {
     display: inline-block;
     position: relative;
-    position: fixed;
     bottom: 150px;
     margin-left: 240px;
 }
