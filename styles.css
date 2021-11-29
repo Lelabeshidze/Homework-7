@@ -12,3 +12,7 @@ a {
 .position {
     display: inline-block;
 }
+.image {
+    display: inline-block;
+    vertical-align: middle;
+}
