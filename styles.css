@@ -36,7 +36,7 @@ a {
     font-family: 'Helvetica Neue LT';
     font-size: 18px;
 }
-.block, .block2 {
+.block {
     display: inline-block;
     position: relative;
     position: sticky;
