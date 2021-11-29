@@ -32,7 +32,7 @@ a {
 }
 .title {
     color: #FFFFFF;
-    padding: 240px, 70px, 0, 200px;
+    margin: 240px, 70px, 0, 200px;
 }
 .position {
     position: absolute;
