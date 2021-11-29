@@ -18,8 +18,9 @@ a {
 }
 .color {
     background-color: #FFFFFF;
+    display: inline-block;
 }
 .image {
-    width: auto;
-    height: auto;
+    width: 300px;;
+    height: 295px;
 }
