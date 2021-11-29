@@ -51,3 +51,7 @@ h3 {
     margin-left: 900px;
     margin-top: 600px;
 }
+.container {
+    max-width: 190px;
+    width: 100%;
+}
