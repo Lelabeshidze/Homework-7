@@ -15,6 +15,9 @@ a {
 }
 .box {
     background-color: #0A22F4;
+    height: 308px;
+    max-width: 1920px;
+    width: 100%;
 }
 .color {
     background-color: #FFFFFF;
