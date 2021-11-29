@@ -37,5 +37,6 @@ a {
 .position {
     position: absolute;
     top: 150px;
+    width: 90px;
 
 }
