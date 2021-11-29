@@ -26,15 +26,23 @@ a {
 .title {
     color: #FFFFFF;
     margin: 240px, 70px, 0, 200px;
+    font-family: 'Helvetica Neue LT';
+    font-size: 32px;
 }
 .position {
     position: absolute;
     top: 150px;
     width: 300px;
+    font-family: 'Helvetica Neue LT';
+    font-size: 18px;
 }
 .block, .block2 {
     display: inline-block;
     position: relative;
     position: fixed;
     bottom: 150px;
+}
+h3 {
+    font-family: 'Helvetica Neue LT';
+    font-size: 18px;
 }
