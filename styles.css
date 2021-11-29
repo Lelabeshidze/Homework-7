@@ -38,5 +38,7 @@ a {
     position: absolute;
     top: 150px;
     width: 300px;
-
+}
+.block, .block2 {
+    display: inline-block;
 }
