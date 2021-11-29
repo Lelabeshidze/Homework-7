@@ -41,6 +41,7 @@ a {
     position: relative;
     position: fixed;
     bottom: 150px;
+    margin-left: 240px;
 }
 h3 {
     font-family: 'Helvetica Neue LT';
